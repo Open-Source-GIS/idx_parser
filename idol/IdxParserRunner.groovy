@@ -1,4 +1,4 @@
-package pl.marchwicki.idol
+package idol
 
 class IdxParserRunner {
 
